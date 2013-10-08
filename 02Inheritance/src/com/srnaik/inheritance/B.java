@@ -1,8 +1,20 @@
 package com.srnaik.inheritance;
 
+/**
+ * 
+ * @author srnaik
+ * 
+ * Class B is a sub-class which extends Class A
+ * 
+ *
+ */
 public class B extends A{
 
-	
+	/**
+	 *  @param args
+	 *  
+	 *  This is the main method of sub-class B
+	 */
 	public static void main(String[] args){
 		
 		//Line 1
